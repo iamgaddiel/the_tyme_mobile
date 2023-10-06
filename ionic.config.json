@@ -1,0 +1,7 @@
+{
+  "name": "the_tyme_mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
